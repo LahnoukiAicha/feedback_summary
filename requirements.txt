@@ -4,3 +4,4 @@ torch==2.6.0
 bert-extractive-summarizer==0.10.1
 beautifulsoup4==4.13.4
 protobuf==6.30.2
+spacy==3.8.5
